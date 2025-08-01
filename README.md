@@ -32,6 +32,6 @@ If you're building something with…
 - Protocol potential but poor onboarding  
 - …let’s talk.
 
-📬 DM me on [X](https://x.com/DecodedByHer) or submit via typeform (https://form.typeform.com/to/XPOeM4Lf)
+📬 DM me on [X](https://x.com/DecodedByHer) or submit via [typeform](https://form.typeform.com/to/XPOeM4Lf)
 
 ---
