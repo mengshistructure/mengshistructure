@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm MENGSHI
 
-<!--
-**mengshistructure/mengshistructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't write code — I build systems.
 
-Here are some ideas to get you started:
+🔹 Narrative Architect | Protocol Coordination Strategist  
+🔹 Exploring how narratives shape capital, power, and resource allocation in Web3  
+🔹 Bridging protocol builders with expressive, pitch-ready structures  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m building
+
+- **Structure Map v1.0** – A map to decode protocol narratives, mechanism leverage points, and VC exit designs  
+- **Expression System Toolkit** – Notion-based interfaces for collaborative storytelling, pitch decks & mechanism diagrams  
+- **ETHGlobal-ready interface** – Coordination layer tools and collaboration templates for hackathon teams  
+
+---
+
+## 🧩 Projects & Interfaces
+
+🗺️ [Structure Map ](https://www.notion.so/Mengshi_Structure-2-0-System-Overview-23ec76f786b180869874d077826af7b8?source=copy_link)  
+🧪 [Coordination Template ](https://www.notion.so/Narrative-Capital-Coordination-Mechanism-Expression-Interface-23fc76f786b180c48df8e15f8d152953?source=copy_link)
+
+---
+
+## 🪄 Collaboration Intent
+
+If you're building something with…
+
+- Narrative power but lack structure  
+- Mechanism complexity but no clear pitch  
+- Protocol potential but poor onboarding  
+- …let’s talk.
+
+📬 DM me on [X](https://x.com/DecodedByHer) or submit via typeform (https://form.typeform.com/to/XPOeM4Lf)
+
+---
