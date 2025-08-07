@@ -19,7 +19,7 @@ I don't write code — I build systems.
 ## 🧩 Projects & Interfaces
 
 🗺️ [Structure Map ](https://www.notion.so/Mengshi_Structure-2-0-System-Overview-23ec76f786b180869874d077826af7b8?source=copy_link)  
-🧪 [Coordination Template ](https://www.notion.so/Narrative-Capital-Coordination-Mechanism-Expression-Interface-23fc76f786b180c48df8e15f8d152953?source=copy_link)
+🧪 [Coordination Template ](https://www.notion.so/mengshi-structure/Work-With-Me-ETH-Global-interface-243c76f786b180d68ee6c7880fd62c23?source=copy_link)
 
 ✨ [Hackathon Pitch Framework ](https://www.notion.so/MENGSHI-Structural-Narrative-Strategist-242c76f786b18054bacee8e47c582930?source=copy_link)  
 
